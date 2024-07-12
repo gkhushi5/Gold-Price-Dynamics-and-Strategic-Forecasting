@@ -44,14 +44,8 @@ cd Gold-Price-Dynamics-and-Strategic-Forecasting
 pip install -r requirements.txt
 
 ### Usage
-- **Data Preprocessing**: Run the `data_preprocessing.py` script to clean and preprocess the data.
-- **Feature Engineering**: Use the `feature_engineering.py` script to create new features from the raw data.
-- **Exploratory Data Analysis**: Open the `EDA.ipynb` notebook to perform an initial analysis of the data.
-- **Time Series Analysis**: Use the `Time_Series_Analysis.ipynb` notebook to explore historical trends and patterns.
-- **Advanced Modeling**: Develop and evaluate predictive models using the `Advanced_Modeling.ipynb` notebook.
-- **Trading Strategies**: Formulate and backtest strategies in the `Trading_Strategies.ipynb` notebook.
-- **Market Sentiment Analysis**: Assess market sentiment in the `Market_Sentiment_Analysis.ipynb` notebook.
-- **Statistical Analysis**: Conduct statistical tests using relevant scripts and notebooks.
+- **Main Notebook**: Open the main_file.ipynb notebook to perform all tasks, including data preprocessing, feature engineering, exploratory data analysis, time series analysis, advanced modeling, trading strategies, market sentiment analysis, and statistical analysis.
+- **Datasets**: Ensure that "goldstock.csv" and "gold_prices_influences.csv" are available in the data directory for the notebook to function correctly.
 
 ## Contributing
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
