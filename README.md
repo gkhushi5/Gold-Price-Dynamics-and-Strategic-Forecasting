@@ -25,36 +25,6 @@ This repository contains the project "Gold Price Dynamics and Strategic Forecast
 - **Statistical Tests**: Conduct statistical tests and analyses to gain insights into the characteristics of gold price movements.
 - **External Correlations**: Explore correlations with external factors and macroeconomic indicators.
 
-## Project Structure
-The repository is organized as follows:
-
-Gold-Price-Dynamics-and-Strategic-Forecasting/
-├── data/
-│ ├── raw/ # Raw data files
-│ ├── processed/ # Processed data files
-│ └── external/ # External datasets
-│
-├── notebooks/
-│ ├── EDA.ipynb # Exploratory Data Analysis
-│ ├── Time_Series_Analysis.ipynb
-│ ├── Advanced_Modeling.ipynb
-│ ├── Trading_Strategies.ipynb
-│ └── Market_Sentiment_Analysis.ipynb
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── modeling.py
-│ ├── trading_strategies.py
-│ └── market_sentiment.py
-│
-├── results/
-│ ├── figures/ # Visualizations and plots
-│ └── models/ # Saved model files
-│
-├── README.md
-└── requirements.txt # Required packages and dependencies
-
 ## Getting Started
 
 ### Prerequisites
