@@ -29,7 +29,6 @@ This repository contains the project "Gold Price Dynamics and Strategic Forecast
 The repository is organized as follows:
 
 Gold-Price-Dynamics-and-Strategic-Forecasting/
-│
 ├── data/
 │ ├── raw/ # Raw data files
 │ ├── processed/ # Processed data files
@@ -55,7 +54,6 @@ Gold-Price-Dynamics-and-Strategic-Forecasting/
 │
 ├── README.md
 └── requirements.txt # Required packages and dependencies
-
 
 ## Getting Started
 
